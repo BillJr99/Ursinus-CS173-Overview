@@ -6,7 +6,7 @@ transition: zoom
 
 <section>
   <div style="text-align: left; float: left;">
-    <p data-markdown>![Picture of Me](./images/bill-ck-vaca.jpg){:width="50%"}
+    <p data-markdown>![Picture of Me](./images/bill-ck-vaca.jpg){:width="10%"}
 </p>
     <p data-markdown>- Born in Delaware County, PA</p>
     <p data-markdown>- Married in Carmel, CA in 2015</p>
