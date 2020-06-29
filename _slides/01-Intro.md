@@ -1,8 +1,11 @@
 ---
+info:
+  coursenum: "CS173"
+  title: "Intro to Computer Science"
 ---
 
-# Demo 
+# {{ page.info.coursenum }}: {{ page.info.title }}
 
-## Introduction
+## Bill Mongan
 
-Let me introduce you to [Reveal-Jekyll](https://github.com/sylhare/Reveal-Jekyll)
+Welcome to CS 173!
