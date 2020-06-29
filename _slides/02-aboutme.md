@@ -6,7 +6,7 @@ transition: zoom
 
 <section>
   <div style="text-align: left; float: left;">
-    <p data-markdown>![Picture of Me](./images/bill-ck-vaca.jpg)
+    <p data-markdown>![Picture of Me](./images/bill-ck-vaca.jpg =250x)
 </p>
     <p data-markdown>- Born in Delaware County, PA</p>
   </div>
