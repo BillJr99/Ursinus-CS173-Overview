@@ -6,14 +6,16 @@ transition: zoom
 
 <section>
   <div style="text-align: left; float: left;">
-    <p data-markdown>- This is my first left element</p>
-    <p data-markdown>- This is my second left element</p>
-    <!-- more Elements -->
+    <p data-markdown>![Picture of Me](./images/bill-ck-vaca.jpg)
+</p>
+    <p data-markdown>- Born in Delaware County, PA</p>
   </div>
 
   <div style="text-align: right; float: right;">
-    <p data-markdown>- This is my first right element</p>
-    <p data-markdown>- This is my second rightelement</p>
-    <!-- more Elements -->
+    <p data-markdown>- Upper Darby High School Class of 2000</p>
+    <p data-markdown>- Drexel University Class of 2005</p>
+    <p data-markdown>- Received an MS in Computer Science and in Education in 2008</p>
+    <p data-markdown>- Completed my PhD at Drexel in 2018</p>
+    <p data-markdown>- Loves to Travel</p>
   </div>
 </section>
