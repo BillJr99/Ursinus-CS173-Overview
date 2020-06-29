@@ -14,6 +14,6 @@ transition: zoom
   </div>
 
   <div style="text-align: right; float: right;">
-    <p data-markdown><img src="http://www.billmongan.com/images/profile.png" width="250"/></p>
+    <p data-markdown>![Picture of Me](http://www.billmongan.com/images/profile.png)</p>
   </div>
 </section>

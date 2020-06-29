@@ -6,7 +6,7 @@ transition: zoom
 
 <section>
   <div style="text-align: left; float: left;">
-    <p data-markdown><img src="./images/bill-ck-vaca.jpg" width="250"/></p>
+    <p data-markdown><img src="./images/bill-ck-vaca.jpg" width="25%"/></p>
   </div>
 
   <div style="text-align: right; float: right;">
