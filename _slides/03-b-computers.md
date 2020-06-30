@@ -4,21 +4,23 @@ transition: zoom
 
 ## What is a Computer?
 
+- Grace Hopper
+
 <p class="fragment fade-in-then-out">
 <p class="fragment">
-- Grace Hopper
-  - Pioneer of the UNIVAC I
-  - Wanted to program computers in English
-</p>
+Pioneer of the UNIVAC I
+Wanted to program computers in English
+
 <p class="fragment">
-    - ... and was told she couldn't!
+... and was told she couldn't!
 </p>
+
 <p class="fragment">
-  - Pioneer of COBOL computer language
+Pioneer of COBOL computer language
 </p>
 </p>
 
-<p class="fragment fade-in-then-out">
+<p class="fragment">
 <!-- Grace Hopper and the Nanosecond -->
-<video data-autoplay src="https://www.youtube.com/watch?v=9eyFDBPk4Yw"></video>
+<iframe data-src="https://www.youtube.com/embed/9eyFDBPk4Yw?autoplay=1"></iframe>
 </p>
