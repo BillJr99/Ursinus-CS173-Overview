@@ -7,7 +7,7 @@ transition: zoom
 - Problems that we are better suited to solve (efficiently)
 
 <font size="2">
-<table>
+<table style='font-size:50%'>
     <thead><tr>
         <th>Computers</th>
         <th>???</th>
