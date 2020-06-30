@@ -5,8 +5,7 @@ transition: zoom
 ## What is a Computer?
 
 - Charles Babbage and the Analytical Engine
-- Ada Lovelace
-  - ... developed the first algorithm that could be executed on an Analyticial Engine.
+- Ada Lovelace developed the first algorithm that could be executed on an Analyticial Engine.
 
 <div class="paragraph">
     <p>
