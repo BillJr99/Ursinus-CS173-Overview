@@ -13,6 +13,7 @@ transition: zoom
 <p class="fragment">
 Pioneer of the UNIVAC I
 Wanted to program computers in English
+</p>
 
 <p class="fragment">
 ... and was told she couldn't!
