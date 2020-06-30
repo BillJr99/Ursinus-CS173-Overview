@@ -12,7 +12,7 @@ transition: zoom
     <p>
         <span class="image">
             <!-- Babbage Difference Engine and the Design of the Analytical Engine -->
-            <iframe src="https://www.youtube.com/embed/KBuJqUfO4-w" width="320" height="240"></iframe>
+            <iframe src="https://www.youtube.com/embed/KBuJqUfO4-w" width="480" height="360"></iframe>
         </span> 
         <span class="image">
             <!-- Ada Lovelace - Public Domain -->
