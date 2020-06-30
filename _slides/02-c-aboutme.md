@@ -6,5 +6,13 @@ transition: zoom
 
 - I am a private pilot who loves to travel   
 
-![Piloting](./images/bill-pilot.jpg)
-![Carmel](./images/carmel.jpg)
+<div class="paragraph">
+    <p>
+        <span class="image">
+            <img src="./images/bill-pilot.jpg" />
+        </span> 
+        <span class="image">
+            <img src="./images/carmel.jpg" />
+        </span>
+    </p>
+</div>

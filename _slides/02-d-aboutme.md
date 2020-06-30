@@ -7,6 +7,16 @@ transition: zoom
 - We love animals and have two cats
 - ... plus some occasional visitors!
 
-![Cats](./images/cats.jpg)
-![Deer](./images/deer.jpg)
-![Fox](./images/fox.jpg)
+<div class="paragraph">
+    <p>
+        <span class="image">
+            <img src="./images/cats.jpg" />
+        </span> 
+        <span class="image">
+            <img src="./images/deer.jpg" />
+        </span>
+        <span class="image">
+            <img src="./images/fox.jpg" />
+        </span>        
+    </p>
+</div>
