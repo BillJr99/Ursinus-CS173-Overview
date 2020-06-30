@@ -6,6 +6,7 @@ transition: zoom
 
 - Problems that we are better suited to solve (efficiently)
 
+<p style="font-size:12px;">
 <table>
     <thead><tr>
         <th>Computers</th>
@@ -33,3 +34,4 @@ transition: zoom
         <td>Enact empathetic policies</td>
     </tr></tbody>
 </table>
+</p>
