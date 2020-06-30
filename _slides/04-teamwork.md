@@ -12,5 +12,3 @@ transition: zoom
   - Collaborate with you to architect, design, and build software solutions
 
 - These are stakeholders - we need to be good communicators and good collaborators!
-
-- Have you ever wished that you were included on a software project for an application you use?
