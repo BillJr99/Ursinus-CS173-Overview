@@ -4,17 +4,20 @@ transition: zoom
 
 ## What is a Computer?
 
-- Melba Roy Mouton
+<div class="paragraph">
+    <p>
+        <span class="image">
+            <!-- Babbage Difference Engine and the Design of the Analytical Engine -->
+            <iframe src="https://www.youtube.com/embed/KBuJqUfO4-w?autoplay=1"></iframe>
+        </span> 
+        <span class="image">
+            Ada Lovelace developed the first algorithm that could be executed on an Analyticial Engine.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Melba_Roy_-_Female_Computer_-_GPN-2000-001647.jpg/800px-Melba_Roy_-_Female_Computer_-_GPN-2000-001647.jpg" width="20%" />
+            <!-- Ada Lovelace - Public Domain -->
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/800px-Ada_Lovelace_portrait.jpg" width="20%" />
+        </span>
+    </p>
+</div>
 
-<p class="fragment">
-Head of the NASA "Computers" (mathemeticians)
 
-<p class="fragment">
-Programmer at Goddard Space Flight Center
-</p>
 
-<p class="fragment">
-Project Echo Satellites (1 and 2)
-</p>
