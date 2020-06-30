@@ -7,7 +7,7 @@ transition: zoom
 - Grace Hopper
 
 <!-- Grace Hopper and the Nanosecond -->
-<iframe src="https://www.youtube.com/embed/9eyFDBPk4Yw" width="600"></iframe>
+<iframe src="https://www.youtube.com/embed/9eyFDBPk4Yw"></iframe>
 
 <p class="fragment fade-in-then-out">
 <p class="fragment">
