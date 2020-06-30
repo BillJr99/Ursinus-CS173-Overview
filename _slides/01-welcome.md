@@ -2,10 +2,11 @@
 info:
   coursenum: "CS173"
   title: "Intro to Computer Science"
+  instructor: "Bill Mongan"
 ---
 
 ## {{ page.info.coursenum }}: {{ page.info.title }}
 
-### Bill Mongan
+### {{ page.info.instructor }}
 
-Welcome to CS 173!
+Welcome to {{ page.info.coursenum }}!
