@@ -9,10 +9,10 @@ transition: zoom
 <div class="paragraph">
     <p>
         <span class="image">
-            <img src="./images/bill-pilot.jpg" width="20%" />
+            <img src="./images/bill-pilot.jpg" width="40%" />
         </span> 
         <span class="image">
-            <img src="./images/carmel.jpg" width="20%" />
+            <img src="./images/carmel.jpg" width="40%" />
         </span>
     </p>
 </div>

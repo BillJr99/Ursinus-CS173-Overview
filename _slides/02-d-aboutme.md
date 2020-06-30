@@ -10,9 +10,6 @@ transition: zoom
 <div class="paragraph">
     <p>
         <span class="image">
-            <img src="./images/cats.jpg" width="20%" />
-        </span> 
-        <span class="image">
             <img src="./images/deer.jpg" width="20%" />
         </span>
         <span class="image">
@@ -20,3 +17,5 @@ transition: zoom
         </span>        
     </p>
 </div>
+
+<img src="./images/cats.jpg" width="33%" />
