@@ -6,6 +6,9 @@ transition: zoom
 
 - Grace Hopper
 
+<!-- Grace Hopper and the Nanosecond -->
+<iframe src="https://www.youtube.com/embed/9eyFDBPk4Yw"></iframe>
+
 <p class="fragment fade-in-then-out">
 <p class="fragment">
 Pioneer of the UNIVAC I
@@ -20,7 +23,5 @@ Pioneer of COBOL computer language
 </p>
 </p>
 
-<p class="fragment">
-<!-- Grace Hopper and the Nanosecond -->
-<iframe src="https://www.youtube.com/embed/9eyFDBPk4Yw?autoplay=1" data-autoplay></iframe>
-</p>
+
+
