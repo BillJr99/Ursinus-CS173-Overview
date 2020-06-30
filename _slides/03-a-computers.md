@@ -6,7 +6,7 @@ transition: zoom
 
 <p class="fragment fade-out" data-fragment-index="1">
 <!-- The Enigma Machine -->
-<iframe data-src="https://www.youtube.com/embed/ASfAPOiq_eQ?t=132&autoplay=1"></iframe>
+<iframe src="https://www.youtube.com/embed/ASfAPOiq_eQ?t=132&autoplay=1" data-autoplay></iframe>
 </p>
 
 <p class="fragment fade-in-then-out" data-fragment-index="2">
@@ -21,6 +21,6 @@ transition: zoom
 
 <p class="fragment fade-in-then-out" data-fragment-index="4">
 <!-- Babbage Difference Engine and the Design of the Analytical Engine -->
-<iframe data-src="https://www.youtube.com/embed/KBuJqUfO4-w?autoplay=1"></iframe>
+<iframe src="https://www.youtube.com/embed/KBuJqUfO4-w?autoplay=1" data-autoplay></iframe>
 </p>
 

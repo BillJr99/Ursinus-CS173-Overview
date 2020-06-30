@@ -22,5 +22,5 @@ Pioneer of COBOL computer language
 
 <p class="fragment">
 <!-- Grace Hopper and the Nanosecond -->
-<iframe data-src="https://www.youtube.com/embed/9eyFDBPk4Yw?autoplay=1"></iframe>
+<iframe src="https://www.youtube.com/embed/9eyFDBPk4Yw?autoplay=1" data-autoplay></iframe>
 </p>
