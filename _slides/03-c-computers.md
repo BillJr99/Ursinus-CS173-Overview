@@ -8,7 +8,7 @@ transition: zoom
     <p>
         <span class="image">
             <!-- Babbage Difference Engine and the Design of the Analytical Engine -->
-            <iframe src="https://www.youtube.com/embed/KBuJqUfO4-w"></iframe>
+            <iframe src="https://www.youtube.com/embed/KBuJqUfO4-w" width="600"></iframe>
         </span> 
         <span class="image">
             Ada Lovelace developed the first algorithm that could be executed on an Analyticial Engine.
