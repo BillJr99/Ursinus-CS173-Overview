@@ -18,4 +18,4 @@ transition: zoom
     </p>
 </div>
 
-<img src="./images/cats.jpg" width="33%" />
+<img src="./images/cats.jpg" width="30%" />
