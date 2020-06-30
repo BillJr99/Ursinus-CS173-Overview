@@ -2,8 +2,7 @@
 transition: zoom
 ---
 
-## Debugging
 
-Software development is challenging, and often requires some iteration to get right.
+## Coding Style
 
-Fortunately, there are tools to help us!
+The code you write is only as useful as it is maintainable by the next person.
