@@ -2,7 +2,7 @@
 transition: zoom
 
 info:
-  website: "http://www.billmongan.com/Ursinus-CS173-Fall2020"
+  website: "http://www.billmongan.com/Ursinus-CS173"
 ---
 
 ## Class Logistics and Culture
