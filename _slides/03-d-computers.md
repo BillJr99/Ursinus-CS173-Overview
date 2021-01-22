@@ -11,8 +11,7 @@ transition: zoom
 
 <p class="fragment fade-in-then-out">
 <p class="fragment">
-Pioneer of the UNIVAC I
-Wanted to program computers in English
+Pioneer of the UNIVAC I who wanted to program computers in English
 </p>
 
 <p class="fragment">
