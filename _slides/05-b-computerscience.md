@@ -15,12 +15,12 @@ transition: zoom
     <tbody><tr>
         <td>Compute directions to Florida</td>
         <td>Pick out items at a grocery store that add up to exactly $150</td>
-        <td>Write a short story</td>
+        <td>Explain a complex concept using metaphors</td>
     </tr>
     <tr>
         <td>Identify the component notes in a song</td>
-        <td>Predict recividism</td>
-        <td>Explain a complex concept using metaphors</td>
+        <td>Predict recidivism</td>
+        <td>Break words into syllables (perfectly)</td>
     </tr>
     <tr>
         <td>Identify winning strategies in Chess</td>
