@@ -29,7 +29,7 @@ transition: zoom
     </tr>
     <tr>
         <td>Detect anomalies in your day-to-day routine for public health monitoring</td>
-        <td></td>
+        <td>Can the countries on a world map be colored in with 3 unique colors without using the same color for two neighbors?</td>
         <td>Enact empathetic policies</td>
     </tr></tbody>
 </table>
